@@ -1,6 +1,6 @@
 ## Alessandro Adamou's ever-avoided personal page
 
-I can use the [editor on GitHub](https://github.com/alexdma/alexdma.github.io/edit/main/README.md) to maintain and preview the content for my website in Markdown files.
+I can use the [editor on GitHub](https://github.com/alexdma/alexdma.github.io/edit/gh-pages/README.md) to maintain and preview the content for my website in Markdown files.
 
 Whenever I commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
